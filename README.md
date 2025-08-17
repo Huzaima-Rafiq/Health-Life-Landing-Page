@@ -8,7 +8,7 @@ HealthLife is a comprehensive health and wellness platform designed to educate u
 
 ## Live Demo
 
-View the live project: [HealthLife Landing Page](#) *(Add your hosting URL here)*
+View the live project: https://health-life-landing-page.netlify.app/ 
 
 ## Features
 
